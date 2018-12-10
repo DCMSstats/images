@@ -4,7 +4,7 @@
      width="300" height="300"
      viewBox="0 0 200 200"
      id="dcms-change"
-     transform='rotate(45deg)'>
+     transform='rotate(45)'>
      <g id='myyarrow'>
     <polygon points="100 0 150 50 125 50 125 200 75 200 75 50 50 50" fill="black" stroke-width="0" transform="translate(-20, 20) scale(1.2, 0.8)"/>
      </g>
