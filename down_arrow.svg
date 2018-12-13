@@ -3,7 +3,7 @@
      xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 150 150"
      id="dcms-change"
-     transform='rotate(180) scale(0.5)'>
+     transform='rotate(180) scale(0.5) translate(-50, -50)'>
      <g id='myyarrow'>
     <polygon points="100 0 150 50 125 50 125 200 75 200 75 50 50 50" fill="black" stroke-width="0" transform="translate(-20, 20) scale(1.2, 0.8)"/>
      </g>
